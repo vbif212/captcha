@@ -1,1 +1,1 @@
-Simple Captcha service for studying Spring
+Simple Captcha service for studying Spring!
